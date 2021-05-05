@@ -130,6 +130,7 @@
   object-fit: cover;
   border-radius: 6px;
   height: 30vw;
+
   max-height: 200px;
   max-width: 200px;
   min-height: 100px;
@@ -215,8 +216,8 @@
 .wrapper {
   height: 100vh;
   width: 100%;
-  background: rgb(117, 84, 160);
-  background: linear-gradient(
+  /* background: rgb(117, 84, 160); */
+  /* background: linear-gradient(
     90deg,
     rgba(117, 84, 160, 1) 7%,
     rgba(117, 84, 160, 1) 17%,
@@ -227,7 +228,9 @@
     rgba(44, 163, 219, 1) 96%,
     rgba(22, 188, 237, 1) 100%,
     rgba(0, 212, 255, 1) 100%
-  );
+  ); */
+  background-image: url("./images/splash-bg.jpg");
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
