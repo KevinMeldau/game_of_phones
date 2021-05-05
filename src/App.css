@@ -121,6 +121,11 @@ body {
   display: none !important;
 }
 
+.ce-person-text {
+  color: var(--clr-accent-secondary);
+  padding-left: 62px !important;
+}
+
 /* CUSTOM FEED */
 .chat-feed {
   height: 100%;
@@ -149,7 +154,7 @@ body {
 }
 
 .message {
-  background-color: var(--clr-accent-drk) !important;
+  color: var(--clr-light);
 }
 
 .message-row {
