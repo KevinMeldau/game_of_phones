@@ -35,7 +35,7 @@ const Modal = () => {
   return (
     <div className="wrapper">
       <div className="form">
-        <h1 className="title">Chat Application</h1>
+        <h1 className="title">Game of Phones</h1>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
@@ -55,7 +55,7 @@ const Modal = () => {
           />
           <div align="center">
             <button type="submit" className="button">
-              <span>Start chatting</span>
+              <span>Start chat</span>
             </button>
           </div>
         </form>
