@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import companyLogo from "../images/gop_logo.png";
 
 const projectID = "d3a516ec-1dc5-4d13-8d75-0c8beb98b445";
 
@@ -35,7 +36,13 @@ const Modal = () => {
   return (
     <div className="wrapper">
       <div className="form">
-        <h1 className="title">Game of Phones</h1>
+        <div className="logo-container">
+          <img
+            src={companyLogo}
+            className="gop_logo"
+            alt="Game of Phones logo"
+          />
+        </div>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
