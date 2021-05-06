@@ -12,6 +12,12 @@ In order to test the app, you'll need to login as a test user. Here are a list o
 3. Username: **Frank_Salazar**  |  Password: **123123**
 4. Username: **Murphy_Potts**  |  Password: **123123**
 
+| Username        | Password           |
+| ------------- |:-------------:|
+| Owen_Sullivan      | 123123 |
+| Owen_Sullivan      | 123123 |
+| Owen_Sullivan      | 123123 |
+
 ## Technology Used
 
 1. CSS / SASS
