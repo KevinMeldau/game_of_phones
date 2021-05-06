@@ -21,8 +21,8 @@ In order to test the app, you'll need to login as a test user. Here are a list o
 
 ### Screen Shots
 
-**Screen shot - home page**
-![Screen shot of home page](public/images/gop-login.jpg)
+**Screen shot - Login screen**
+![Screen shot of login screen](public/images/gop-login.jpg)
 
-**Screen shot - bottom of the home page**
-![Screen shot of home page](public/images/gop-chat.jpg)
+**Screen shot - Chat window**
+![Screen shot of chat window](public/images/gop-chat.jpg)
