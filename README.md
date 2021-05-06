@@ -1,5 +1,4 @@
 # Game of Phones
-– **Half as many sex scenes. Double the fun.**
 
 Game of Phones is a fully functional chat application that allows multiple users to chat and send images to each other.
 For my final capstone project, I wanted to step out of my comfort zone and focus on functionality, rather than trying to make the app look good.
