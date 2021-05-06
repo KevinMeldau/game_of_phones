@@ -50,6 +50,12 @@ body {
   // background-color: var(--clr-dark-bg);
 }
 
+a {
+  color: var(--clr-accent-secondary);
+  text-decoration: none;
+  font-weight: var(--fw-bold);
+}
+
 .ce-chat-list {
   background-color: rgb(240, 240, 240) !important;
 }
