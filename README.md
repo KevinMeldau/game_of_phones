@@ -9,12 +9,12 @@ Our family LOVES cooking, it's more than sharing a meal, it's a reflection of wh
 ## The how (technology used)
 
 1. CSS / SASS
-2. React (Ant Design & Chat Engine)
+2. React (Ant Design & Web Sockets)
 
 ### Screen Shots
 
 **Screen shot - home page**
-![Screen shot of home page](public/images/screen_shot_1.jpg)
+![Screen shot of home page](public/images/gop-login.jpg)
 
 **Screen shot - bottom of the home page**
-![Screen shot of home page](public/images/screen_shot_2.jpg)
+![Screen shot of home page](public/images/gop-chat.jpg)
