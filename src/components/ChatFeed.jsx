@@ -65,6 +65,9 @@ const ChatFeed = (props) => {
         <div className="chat-title">{chat?.title}</div>
         <div className="chat-subtitle">
           {chat.people.map((person) => ` ${person.person.username}`)}
+          <p>Logout</p>
+          {/* <Button className="button" onClick={() => handleLogout()}>
+          </Button> */}
         </div>
       </div>
       {renderMessages()}
@@ -75,5 +78,9 @@ const ChatFeed = (props) => {
     </div>
   );
 };
+
+// function handleLogout() {
+//   sessionStorage.clear();
+// }
 
 export default ChatFeed;
