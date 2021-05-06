@@ -47,7 +47,6 @@ body {
   letter-spacing: var(--ls-body);
   color: var(--clr-accent);
   font-weight: var(--fw-light);
-  // background-color: var(--clr-dark-bg);
 }
 
 a {
@@ -163,7 +162,6 @@ a {
 }
 
 .message {
-  // background-color: var(--clr-accent-drk) !important;
   color: var(--clr-light);
 }
 
@@ -230,7 +228,6 @@ a {
   // width: calc(100% - 36px);
   width: 100%;
   padding: 18px;
-  // background-color: var(--clr-accent-light);
 }
 
 .message-form {
@@ -403,4 +400,14 @@ a {
 .form-error {
   color: white;
   font-weight: var(--fw-bold);
+}
+
+/* Media query */
+
+@media only screen and (max-width: 425px) {
+  .logo-container {
+    .gop_logo {
+      width: 80%;
+    }
+  }
 }
