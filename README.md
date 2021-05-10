@@ -26,16 +26,15 @@ The WebSocket API is an advanced technology that makes it possible to **open a t
 
 ## Functionality Highlights
 
-4. Users can create different chat rooms
-1. Users can jump into different chat rooms
+1. Users can create and move to different chat rooms
 2. Latest message is shown in the chat room preview
 3. Users can send images in chat
-8. Display shows what images have been uploaded to chat during the duration of the chat
+4. The display shows what images have been uploaded to chat during the duration of the chat
 5. Users can see when their message has been read
 6. Display shows user messages on the right, and other users messages on the left
 7. Display shows currently logged in users
-9. Ability to register and delete users (admin only)
-10. Ability to upload profile images (admin only)
+8. Ability to register and delete users (admin only)
+9. Ability to upload profile images (admin only)
 
 ### Screen Shots
 
