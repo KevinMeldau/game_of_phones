@@ -4,6 +4,7 @@ import LoginForm from "./components/LoginForm";
 import "./App.scss";
 
 const App = () => {
+  // Checks local storage to see if there is  a user signed in and then directs to login component
   if (!localStorage.getItem("username")) return <LoginForm />;
 
   return (
