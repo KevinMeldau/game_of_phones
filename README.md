@@ -31,10 +31,9 @@ The WebSocket API is an advanced technology that makes it possible to **open a t
 3. Users can send images in chat
 4. The display shows what images have been uploaded to chat during the duration of the chat
 5. Users can see when their message has been read
-6. The display shows user messages on the right, and other users messages on the left
-7. The display shows currently logged in users
-8. Ability to register and delete users (admin only)
-9. Ability to upload profile images (admin only)
+6. The display shows currently logged in users
+7. Ability to register and delete users (admin only)
+8. Ability to upload profile images (admin only)
 
 ### Screen Shots
 
