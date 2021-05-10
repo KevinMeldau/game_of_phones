@@ -18,6 +18,7 @@ In order to test the app, you'll need to login as a test user. Here are a list o
 
 1. Sass
 2. React – WebSockets & Axios
+3. Vercel (deployment)
 
 ## What is WebSocket technology & Axios
 The WebSocket API is an advanced technology that makes it possible to **open a two-way interactive communication session** between the user's browser and a server. With this API, you can **send messages to a server and receive event-driven responses without having to poll the server** for a reply. WebSocket technology helps you maintain two-way communication between the client(in my case React app) and the Server.
